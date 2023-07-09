@@ -45,9 +45,12 @@ Note: `In your MongoDB database, you need to set your Network Access to 0.0.0.0/
 ## Instructions on How to use the App
 
 To use the app, you need to: 
-1. Register the users to see Potential Chats. Potential Chats are the items with light blue background on the top left of the app. If you register many users, you will be able to see the Potential Chats aside for your account. 
+1. Register the users to see Potential Chats. Potential Chats are the items with light blue background on the top left of the app. If you register many users, you will be able to see the Potential Chats aside from your account. 
 2. These Potentials Chats are clickable, if you click on anyone of them, the User Chat will be opened and the Potential Chat that you clicked will disappear on the Potential Chats Array.
 3. This User Chat are also clickable, if you click on this, the Chat Box will open and you then can chat to your selected User Chat. 
+
+Here is a video demo of the app: https://streamable.com/q0qna5 
+Note: `The link will expire 2days later`
 
 ## 🚀 About Me
 As an amateur web developer, I am eagerly embracing new challenges. I am venturing into uncharted territories, seeking opportunities to expand my skills and knowledge in the field. Engaging in these new challenges fills me with excitement and a sense of fulfillment.
