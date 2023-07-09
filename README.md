@@ -42,7 +42,7 @@ To run this project, you will need to add the following environment variables to
 
 Note: `In your MongoDB database, you need to set your Network Access to 0.0.0.0/0`
 
-## Instructions on to use the App
+## Instructions on How to use the App
 
 To use the app, you need to: 
 1. Register the users to see Potential Chats. Potential Chats are the items with light blue background on the top left of the app. If you register many users, you will be able to see the Potential Chats aside for your account. 
