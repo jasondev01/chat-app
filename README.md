@@ -10,25 +10,11 @@ Install these modules to run the app
 ```bash
   cd client
   npm install
-  npm install react-bootstrap bootstrap
-  npm install moment
-  npm install react-input-emoji
-  npm install socket.io-client
-  npm run dev
 ```
 
 ```bash
   cd server
-  npm install express mongoose cors dotenv
-  npm install -g nodemon
-  npm install bcrypt jsonwebtoken validator
-  nodemon
-```
-
-```bash
-  cd socket
-  npm install socket.io
-  nodemon
+  npm install
 ```
 It is better to run these commands in different terminals. 
 
